@@ -67,25 +67,7 @@
    - 点击**开始找出胜者**启动模拟。
    - 点击**重新游戏**或**结束游戏**重置或退出。
 
----
 
-## 📂 项目结构
-
-```
-├── sorting_visualizer/          # 排序可视化项目
-│   ├── algorithms/              # 排序算法实现
-│   ├── display.py               # 图形界面模块
-│   ├── main.py                  # 主程序入口
-│   └── requirements.txt         # Python依赖库
-│
-├── joseph_ring/                 # 约瑟夫环模拟项目
-│   ├── JosephRing/              # MFC源码（C++）
-│   ├── JosephRing.sln           # Visual Studio解决方案文件
-│   └── README.md                # 详细构建说明
-│
-├── media/                       # 截图与示例图片
-└── README.md                    # 项目总说明（当前文件）
-```
 
 ---
 
