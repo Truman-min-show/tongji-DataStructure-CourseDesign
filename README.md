@@ -84,9 +84,8 @@
 ---
 
 **提示**：  
-1. 请将项目中的截图文件（如`image1.png`）放入`media`目录，并确保路径正确。  
-2. 若需打包Python程序为exe，可使用：  
+1. 若需打包Python程序为exe，可使用：  
    ```bash
    pyinstaller --onefile main.py
    ```  
-3. MFC项目需使用Visual Studio 2019或更高版本编译。
+2. MFC项目需使用Visual Studio 2019或更高版本编译。
